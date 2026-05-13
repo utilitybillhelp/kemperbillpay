@@ -1,0 +1,15 @@
+{
+"name":"Kemper Insurance Quick Pay Guide",
+"short_name":"Kemper Pay",
+"start_url":"/Kemperquickpay/",
+"display":"standalone",
+"background_color":"#ffffff",
+"theme_color":"#003865",
+"icons":[
+{
+"src":"https://www.kemper.com/favicon.ico",
+"sizes":"64x64",
+"type":"image/x-icon"
+}
+]
+}
