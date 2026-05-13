@@ -1,0 +1,8 @@
+User-agent: *
+
+Allow: /
+
+Crawl-delay: 1
+
+Sitemap:
+https://utilitybillhelp.github.io/Kemperquickpay/sitemap.xml
