@@ -1,0 +1,33 @@
+/* TEAM */
+
+Publisher:
+Insurance Bill Help
+
+Project:
+Kemper Insurance Quick Pay Guide
+
+Site:
+https://utilitybillhelp.github.io/Kemperquickpay/
+
+/* SEO */
+
+Focus:
+Insurance Billing Help
+
+Primary Keywords:
+Kemper quick pay
+Kemper guest payment
+Kemper bill pay
+Kemper billing support
+
+Type:
+Publisher-grade informational billing resource
+
+Language:
+English
+
+Standards:
+HTML5, CSS3, Structured Data
+
+Updated:
+May 2026
