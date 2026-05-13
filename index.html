@@ -27,7 +27,7 @@
 
 <meta name="author" content="Insurance Bill Help">
 
-<link rel="icon" href="https://www.kemper.com/favicon.ico">
+<link rel="icon" href="https://cdn-icons-png.flaticon.com/512/1170/1170576.png">
 
 <style>
 
@@ -51,11 +51,12 @@ overflow-x:hidden;
 
 header{
 background:
-linear-gradient(135deg,#003865,#005eb8);
-padding:42px 18px;
+linear-gradient(135deg,#07152d 0%, #0b3d91 55%, #1d4ed8 100%);
+padding:44px 18px;
 position:relative;
 overflow:hidden;
-}
+color:#ffffff;
+  }
 
 header::before{
 content:'';
@@ -78,7 +79,24 @@ height:320px;
 background:rgba(255,255,255,.05);
 border-radius:50%;
 }
+header p,
+header .badge,
+header .readtime{
+color:rgba(255,255,255,0.92) !important;
+}
 
+header p strong{
+color:#ffffff !important;
+font-weight:700;
+}
+
+header::before{
+opacity:.22;
+}
+
+header::after{
+opacity:.14;
+  }
 .container{
 max-width:1180px;
 margin:auto;
